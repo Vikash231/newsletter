@@ -1,0 +1,12 @@
+# Go
+backend/inshorts-api
+backend/inshorts-clone
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# OS
+.DS_Store
+*.log
